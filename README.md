@@ -6,7 +6,7 @@ Adm-music-house is a web application that allows users to search for music using
 
 To run this project locally, follow these steps:
 
-1. Clone this repository using `git clone https://github.com/vishesh-pandey/v-music.git`
+1. Clone this repository using `https://github.com/Admrulez1908/Adm-music-house.git`
 2. Install dependencies using `npm install`
 3. Start the development server using `npm start`
 
